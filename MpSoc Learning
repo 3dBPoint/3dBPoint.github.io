@@ -1,0 +1,6 @@
+# 简称 
+
+简称|全称|含义
+----|---|----
+CCI|Cache Coherent Interconnect|允许不同处理器之间动态交换数据
+SCU|Snoop Control Unit|控制每个CPU和L2 cache之间的数据交互，保证L2 cache和L1 cahce之间的一致性
